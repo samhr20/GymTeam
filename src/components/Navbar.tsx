@@ -1,7 +1,7 @@
 
 const Navbar = () => {
   return (
-    <div className=" w-full text-white flex items-center justify-between px-6 h-10.5 fixed shadow-2xl mt-6 bg-transparent gap-1.5 ">
+    <div className=" w-full backdrop-blur border-b border-b-white/15 text-white flex items-center justify-between px-6 h-10.5 fixed shadow-2xl mt-6 bg-transparent gap-1.5 ">
         
         <div className="text-center ">
             <h1 className="poppins-semibold  text-[0.9rem] sm:text-2xl">Gym<span className="text-[#D90A14]">Team</span></h1>

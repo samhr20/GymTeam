@@ -1,6 +1,7 @@
 import Experience from "./components/Experience"
 import HeroSection from "./components/HeroSection"
 import Navbar from "./components/Navbar"
+import Servces from "./components/Servces"
 
 const App = () => {
   return (
@@ -8,6 +9,7 @@ const App = () => {
     <Navbar/>
     <HeroSection/>
     <Experience/>
+    <Servces/>
     </>
   )
 }
